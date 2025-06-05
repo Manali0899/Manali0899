@@ -40,23 +40,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manalikarankal&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalikarankal&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manalikarankal&theme=tokyonight" />
-</p>
-
----
-
 ### 📍 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manali-k/)  
-📫 **Reach me at**: manalikarankal.contact@gmail.com
+📫 **Email**: manalikarankal.contact@gmail.com
 
 ---
 
