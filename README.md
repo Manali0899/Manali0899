@@ -2,15 +2,21 @@
 <h3 align="center">Software Developer | Backend Enthusiast | Cloud Explorer | Chess Lover ♟️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Passionate+about+clean+code+and+cloud.;Building+full-stack+and+automation+projects.;Always+learning+and+playing+chess+%F0%9F%8F%9F%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://cdn.jsdelivr.net/gh/rajput2107/rajput2107/assets/Images/tech.gif" alt="AI Banner" width="80%" />
+</p>
+
+<p align="center">
+  🚀 <strong>Fast learner with a bias for action and a hunger for impact.</strong>  
+  My goal? To evolve into a trusted engineer who builds things that matter.
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Master’s in Computer Science @ Pace University, New York ( Dec 2024)  
-- 🔎 Actively seeking: Full-time Software Developer roles 
+- 🎓 Master’s in Computer Science @ Pace University, New York (Graduating Dec 2024)  
+- 💼 Currently: Assistant Transit Management Analyst @ MTA, NYC  
+- 🔎 Actively seeking: Full-time Software Developer roles | H-1B Sponsorship-friendly  
 - 🛠️ Focus: Java • Spring Boot • Python • CI/CD • PostgreSQL • Docker • AWS/GCP  
 - 🧠 Side Quests: System Design, Data Engineering, Competitive Coding  
 - 🧳 Fun: I love to travel, explore hidden gems 🗺️, and play chess 🎯
@@ -29,7 +35,7 @@
 
 ---
 
-### 📌 Featured Projects         # Projects are going to be live soon! Stay Tuned
+### 📌 Featured Projects
 
 - 📝 [**Resume Parser & Analyzer**](https://github.com/yourusername/resume-parser): NLP tool to evaluate resume-job fit & suggest improvements  
 - 📦 [**Inventory SaaS for Small Biz**](https://github.com/yourusername/inventory-management): End-to-end inventory & order tracking web app  
