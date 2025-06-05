@@ -30,7 +30,7 @@
 ---
 
 ### 📌 Featured Projects
-
+Projects are going to be live soon! Stay Tuned
 - 📝 [**Resume Parser & Analyzer**](https://github.com/yourusername/resume-parser): NLP tool to evaluate resume-job fit & suggest improvements  
 - 📦 [**Inventory SaaS for Small Biz**](https://github.com/yourusername/inventory-management): End-to-end inventory & order tracking web app  
 - 🤝 [**CodeBuddy**](https://github.com/yourusername/codebuddy): Platform to pair developers for LeetCode-style coding practice
