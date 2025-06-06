@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manali Karankal</h1>
-<h3 align="center">Software Developer | Backend Enthusiast | Cloud Explorer | Chess Lover ♟️</h3>
+<h3 align="center">Software Developer | Full Stack Developer |Chess Lover ♟️</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Passionate+about+clean+code+and+cloud.;Building+full-stack+and+automation+projects.;Always+learning+and+playing+chess+%F0%9F%8F%9F%EF%B8%8F" alt="Typing SVG" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 📌 Featured Projects    #Projects will be live soon .. STay Tuned!!#
+### 📌 Featured Projects    #Projects will be live soon .. Stay Tuned!!#
 
 - 📝 [**Resume Parser & Analyzer**](https://github.com/yourusername/resume-parser): NLP tool to evaluate resume-job fit & suggest improvements  
 - 📦 [**Inventory SaaS for Small Biz**](https://github.com/yourusername/inventory-management): End-to-end inventory & order tracking web app  
