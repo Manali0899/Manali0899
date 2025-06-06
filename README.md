@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Master’s in Computer Science @ Pace University, New York (Graduating Dec 2024)  
+- 🎓 Master’s in Computer Science @ Pace University, New York ( Dec 2024)  
 - 🔎 Actively seeking: Full-time Software Developer roles 
 - 🛠️ Focus: Java • Spring Boot • Python • CI/CD • PostgreSQL • Docker • AWS/GCP  
 - 🧠 Side Quests: System Design, Data Engineering, Competitive Coding  
@@ -29,7 +29,7 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Projects    #Projects will be live soon .. STay Tuned!!#
 
 - 📝 [**Resume Parser & Analyzer**](https://github.com/yourusername/resume-parser): NLP tool to evaluate resume-job fit & suggest improvements  
 - 📦 [**Inventory SaaS for Small Biz**](https://github.com/yourusername/inventory-management): End-to-end inventory & order tracking web app  
