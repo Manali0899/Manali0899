@@ -42,13 +42,13 @@
 ### 📍 Let’s Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manali-k/" target="_blank">
+  <a href="https://www.linkedin.com/in/manali-k/" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="30" />
   </a>
-  <a href="https://www.instagram.com/your_instagram" target="_blank">
+  <a href="https://www.instagram.com/your_instagram" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
   </a>
-  <a href="https://manali.hashnode.dev" target="_blank">
+  <a href="https://manali.hashnode.dev" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Hashnode Blog" width="30" />
   </a>
   <a href="mailto:manalikarankal.contact@gmail.com" target="_blank">
