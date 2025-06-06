@@ -43,16 +43,17 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/manali-k/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="30" />
   </a>
   <a href="https://www.instagram.com/your_instagram" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
   </a>
   <a href="https://manali.hashnode.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="Blog" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Hashnode Blog" width="30" />
   </a>
   <a href="mailto:manalikarankal.contact@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" />
   </a>
 </p>
+
 
