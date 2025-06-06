@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Full Stack Developer |Chess Lover ♟️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Passionate+about+clean+code+and+cloud.;Building+full-stack+and+automation+projects.;Always+learning+and+playing+chess+%F0%9F%8F%9F%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Passionate+about+clean+code;Building+full-stack+projects.;Always+learning+and+playing+chess+%F0%9F%8F%9F%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
