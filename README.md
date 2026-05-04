@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Master’s in Computer Science @ Pace University, New York ( Dec 2024)  
-- 🔎 Actively seeking: Full-time Software Developer roles 
+- 🔎 Actively seeking: Full-time Software Developer and Data Enginnering roles 
 - 🛠️ Focus: Java • Spring Boot • Python • CI/CD • PostgreSQL • Docker • AWS/GCP  
 - 🧠 Side Quests: System Design, Data Engineering, Competitive Coding  
 - 🧳 Fun: I love to travel, explore hidden gems 🗺️, and play chess 🎯
